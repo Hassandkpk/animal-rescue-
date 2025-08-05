@@ -17,7 +17,8 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
-"bobcat rescue", "bobcat kitten rescue", "rescued bobcat", "bobcat cub", "baby bobcat", "bobcat rehabilitation", "bobcat sanctuary", "wild bobcat rescue", "bobcat adoption story", "bobcat care","emotional animal rescue stories", "heartwarming rescue stories", "animal rescue emotional moments", "sad animal rescue happy ending", "tearjerker animal rescue", "incredible animal survival stories", "animal rescue transformation", "emotional wildlife rescue stories"
+"bobcat kitten", "animals", "wild cat", "rescue tales", "wildlife", "Wild paws", "Tiny Paws", "wildlife rescue", "rescue animals", "wild animal rescue", "baby bobcat", "animal rescue", "dog and cat friendship", "animal companionship", "animal video", "wild cat", "cute animals", "big cats", "cute animal videos", "bobcat rescue", "Kitten Rescue", "Bobcat Cub", "Wild Animal Shelter", "Abandoned Cub", "Wildlife Story", "heartwarming stories"
+
 
 
 
